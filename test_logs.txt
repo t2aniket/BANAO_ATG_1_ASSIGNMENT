@@ -1,0 +1,11 @@
+2025-04-15 03:13:04,402 - INFO - Starting automation script
+2025-04-15 03:13:04,680 - INFO - HTTP Response Code for https://atg.party: 200
+2025-04-15 03:13:13,262 - INFO - page load time is 5.36 seconds
+2025-04-15 03:13:14,290 - INFO - Clicked LOGIN button
+2025-04-15 03:13:17,207 - INFO - Entered email
+2025-04-15 03:13:17,882 - INFO - Entered password
+2025-04-15 03:13:18,305 - INFO - Clicked Sign In button
+2025-04-15 03:13:28,966 - INFO - Username Entered
+2025-04-15 03:13:29,963 - INFO - Bio entered
+2025-04-15 03:13:34,578 - INFO - Photo uploaded
+2025-04-15 03:13:37,108 - INFO - Profile saved
