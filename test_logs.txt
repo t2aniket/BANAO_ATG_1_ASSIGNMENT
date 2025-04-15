@@ -1,11 +1,11 @@
-2025-04-15 03:13:04,402 - INFO - Starting automation script
-2025-04-15 03:13:04,680 - INFO - HTTP Response Code for https://atg.party: 200
-2025-04-15 03:13:13,262 - INFO - page load time is 5.36 seconds
-2025-04-15 03:13:14,290 - INFO - Clicked LOGIN button
-2025-04-15 03:13:17,207 - INFO - Entered email
-2025-04-15 03:13:17,882 - INFO - Entered password
-2025-04-15 03:13:18,305 - INFO - Clicked Sign In button
-2025-04-15 03:13:28,966 - INFO - Username Entered
-2025-04-15 03:13:29,963 - INFO - Bio entered
-2025-04-15 03:13:34,578 - INFO - Photo uploaded
-2025-04-15 03:13:37,108 - INFO - Profile saved
+2025-04-16 00:03:09,633 - INFO - Starting automation script
+2025-04-16 00:03:09,902 - INFO - HTTP Response Code for https://atg.party: 200
+2025-04-16 00:03:23,614 - INFO - page load time is 11.29 seconds
+2025-04-16 00:03:24,021 - INFO - Clicked LOGIN button
+2025-04-16 00:03:26,518 - INFO - Entered email
+2025-04-16 00:03:27,550 - INFO - Entered password
+2025-04-16 00:03:28,000 - INFO - Clicked Sign In button
+2025-04-16 00:03:36,301 - INFO - Username Entered
+2025-04-16 00:03:36,894 - INFO - Bio entered
+2025-04-16 00:03:40,805 - INFO - Photo uploaded
+2025-04-16 00:03:43,098 - INFO - Profile saved

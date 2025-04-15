@@ -1,11 +1,11 @@
 import requests
+import logging
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-import logging
 
 
 logging.basicConfig(
@@ -22,10 +22,10 @@ logger = logging.getLogger()
 
 
 URL = "https://atg.party"
-EMAIL = "t2aniketnaik@gmail.com"
-PASSWORD = "International@123"
+EMAIL = "autotest@yopmail.com"
+PASSWORD = "Pass@123"
 COVER_PHOTO_PATH = "/home/aniket/Desktop/icon-4399701_1280.jpg"
-USERNAME = "t2anikeeet"
+USERNAME = "aniketauto"
 BIO = "Hi My Name is Aniket and I am an Automation Test Engineer"
 
 
